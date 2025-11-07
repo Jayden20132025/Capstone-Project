@@ -22,3 +22,15 @@ body {
   background-color: #ffe066;
   color: black;
 }
+.myslides {
+  height: 500px;
+  width: 100%;
+}
+img {
+  width: 200px;
+}
+h1 {
+  text-align: center;
+  color: green;
+  font-weight: bolder;
+}
